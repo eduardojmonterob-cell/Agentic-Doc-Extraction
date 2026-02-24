@@ -4,4 +4,7 @@ langchain
 langchain-openai
 langchain-community
 pillow==12.1.1
+paddleocr
+paddlepaddle==3.0.0
+
 #sudo apt install tesseract-ocr
