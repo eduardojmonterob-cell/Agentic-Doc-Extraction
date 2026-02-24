@@ -1,0 +1,7 @@
+dotenv
+pytesseract
+langchain
+langchain-openai
+langchain-community
+pillow==12.1.1
+#sudo apt install tesseract-ocr
